@@ -10,6 +10,8 @@
 *.dylib
 *.obj
 
+/bin
+
 /obj
 
 # Optix libs
@@ -48,3 +50,4 @@ Makefile*
 
 # QtCtreator CMake
 CMakeLists.txt.user*
+contrib/optix/bin/optix.6.5.0.dll
