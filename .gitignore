@@ -11,6 +11,8 @@
 *.obj
 
 /obj
+/bin
+optix.6.5.0.dll
 
 # Optix libs
 bin/cudart64_90.dll
